@@ -12,7 +12,7 @@ def copy_and_overwrite(from_path, to_path):
 
 
 def main():
-    """Example python script to fix up the openidm sample with our custom files"""
+    """ TEST: Example python script to fix up the openidm sample with our custom files"""
 
     #  hack - find a better way to locate the current openidm release
     idm_source_folder = "/Users/warren.strange/tmp/fr/forgeops/docker/tmp/openidm/samples"
